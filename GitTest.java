@@ -6,6 +6,7 @@ public class GitTest{
 		System.out.println("这是第二个测试");
 		System.out.println("这是第三个测试");
 		System.out.println("这是第四个测试");
+		System.out.println("这是分支冲突测试");
 	}
 	
 }
